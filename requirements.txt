@@ -4,6 +4,6 @@ pytgcalls==2.1.0
 yt-dlp
 pymongo[srv]==4.3.3
 python-dotenv==1.0.0
-youtubesearchpython==1.7.8
+youtubesearchpython
 ffmpeg-python==0.2.0
 git+https://github.com/pytgcalls/pytgcalls
