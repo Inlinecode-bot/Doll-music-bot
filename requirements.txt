@@ -1,6 +1,6 @@
 pyrogram==2.0.106
 tgcrypto==1.2.3
-pytgcalls==2.5.2
+pytgcalls==2.1.0
 youtube-dl==2025.9.8
 pymongo[srv]==4.3.3
 python-dotenv==1.0.0
