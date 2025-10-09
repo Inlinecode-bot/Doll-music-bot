@@ -1,6 +1,6 @@
 pyrogram==2.0.106
 tgcrypto==1.2.3
 pytgcalls==2.1.0
-yt-dlp==2025.9.8
 aiohttp==3.8.4
-git+https://github.com/alexmercerind/youtube-search-python.git
+yt-dlp==2023.12.30
+git+https://github.com/alexmercerind/youtube-search-python.git@master
