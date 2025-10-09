@@ -1,5 +1,5 @@
 pyrogram==2.0.106
-tgcrypto==1.2.3
+tgcrypto==0.9.7
 pytgcalls==2.1.0
 aiohttp==3.8.4
 yt-dlp==2023.12.30
