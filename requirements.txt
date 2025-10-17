@@ -1,6 +1,6 @@
-pyrogram==2.0.106
-tgcrypto==1.2.5
-git+https://github.com/pytgcalls/pytgcalls.git@master
-git+https://github.com/alexmercerind/youtube-search-python.git@master
-yt-dlp>=2023.12.30,<2024.0.0
-aiohttp==3.8.5
+pyrogram==2.0.45
+pytgcalls==3.0.0
+pymongo==4.4.1
+youtube_dl==2021.12.17
+youtube-search-python==1.6.6
+python-dotenv==1.0.0
